@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake Animation 🐍
 
 on:
   schedule:
@@ -14,13 +14,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate dark mode Snake
         uses: Platane/snk@v3
         with:
           github_user_name: GustavoSilvaCorrea
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=0BF84D&color_dots=#2E2E2E
 
-      - name: Upload Snake SVG to GitHub Pages
+      - name: Upload to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
