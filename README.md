@@ -52,9 +52,6 @@ Gosto de aprender novas linguagens e ferramentas, e estou sempre em busca de apr
 
 ⭐️ _Feito com ❤️ por [GustavoSilvaCorrea](https://github.com/GustavoSilvaCorrea)_
 
-## 🐍 Minhas contribuições em forma de cobrinha!
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GustavoSilvaCorrea/GustavoSilvaCorrea/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/GustavoSilvaCorrea/GustavoSilvaCorrea/output/snake-dark.svg" alt="Snake animation" />
 </div>
-
