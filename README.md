@@ -44,8 +44,8 @@ Gosto de aprender novas linguagens e ferramentas, e estou sempre em busca de apr
 ---
 
 ## 📫 **Entre em contato**
-📧 Email: [gustavosilvacorrea@exemplo.com](mailto:gustavosilvacorrea@exemplo.com)  
-💼 LinkedIn: [linkedin.com/in/gustavosilvacorrea](https://linkedin.com/in/gustavosilvacorrea)  
+📧 Email: [gusta0581476@gmail.com](mailto:gusta0581576@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/gustavosilvacorrea]([https://linkedin.com/in/gustavosilvacorrea](https://www.linkedin.com/in/gustavo-silva-corr%C3%AAa-a595582b6/))  
 🌐 Portfólio: [gustavosilvacorrea.dev](https://gustavosilvacorrea.dev)
 
 ---
